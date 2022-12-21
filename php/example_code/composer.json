@@ -1,4 +1,6 @@
 {
+  "name": "orkan/aws-sdk-examples-php",
+  "version": "1.0.0",
   "require": {
     "aws/aws-sdk-php": "^3.209",
     "phpunit/phpunit": "^9.5",
